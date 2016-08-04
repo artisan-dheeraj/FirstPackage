@@ -1,0 +1,12 @@
+{
+    "name": "hd/test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dheeraj singh",
+            "email": "dheeraj00086@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
